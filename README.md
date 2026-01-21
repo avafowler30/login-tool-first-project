@@ -13,6 +13,13 @@ Software used:
 - hashlib (SHA-256 password hashing)
 - os library (handling files)
 
+Tutorials/Resources used 
+- Python hashlib doc: https://docs.python.org/3/library/hashlib.html) - for SHA-256 hashing
+- Real Python: https://realpython.com/) - Python tutorials 
+- GeeksforGeeks: https://www.geeksforgeeks.org/) - Programming tutorials & examples
+- Various YouTube tutorials on creating a login system project for python
+
+
 How to run:
 ```bash
 python login.py
